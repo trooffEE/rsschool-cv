@@ -14,6 +14,7 @@ I have basic knowledge of CS in general but I'm familiar with some programming l
 * Python (basic knowledge)
 * Java (basic knowledge)
 * JavaScript (basic knowledge)
+
 Here is some more technologies that I know:
 * Git (basic knowledge)
 * NPM modules
